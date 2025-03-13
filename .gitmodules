@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/LautaroAyosa/auth-module_docs.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/LautaroAyosa/auth-module_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/LautaroAyosa/auth-module_frontend.git
