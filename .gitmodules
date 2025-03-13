@@ -1,5 +1,5 @@
-[submodule "docs"]
-	path = docs
+[submodule "documentation"]
+	path = documentation
 	url = https://github.com/LautaroAyosa/auth-module_docs.git
 [submodule "backend"]
 	path = backend
