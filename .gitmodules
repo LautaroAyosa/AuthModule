@@ -1,6 +1,6 @@
 [submodule "documentation"]
 	path = documentation
-	url = https://github.com/LautaroAyosa/auth-module_docs.git
+	url = https://github.com/LautaroAyosa/auth-module_documentation.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/LautaroAyosa/auth-module_backend.git
