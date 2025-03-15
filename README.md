@@ -2,7 +2,7 @@
 
 This app is intended to be a **plug-and-play authentication module** designed to be integrated into project. This repository contains submodules for the **backend**, **frontend**, and **documentation**, making it easy to manage and deploy the authentication system.  
 
-## For complete instructions on how to run this app, please visit the [Documentation](https://auth-module.lautaroayosa.com.ar/docs/intro) <!-- omit in toc -->
+## For complete instructions on how to run this app, please visit the [Documentation](https://auth-module.lautaroayosa.com.ar/documentation/docs/intro) <!-- omit in toc -->
 
 <br>
 
@@ -168,7 +168,7 @@ Each part can be **run independently** or using **Docker Compose**.
    cp .env.example .env
    ```
 
-4. Configure de environment file with your information. Feel free to use the [documentation](http://auth-module.lautaroayosa.com.ar/docs/setup/setup-instructions) if you're having problems.
+4. Configure de environment file with your information. Feel free to use the [documentation](http://auth-module.lautaroayosa.com.ar/documentation/docs/setup/setup-instructions) if you're having problems.
 
 5. Start the authentication server and database:  
    ```sh
